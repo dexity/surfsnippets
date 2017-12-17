@@ -1,0 +1,245 @@
+Top 40-Pop 4096
+Adult Contemporary 1592
+Electronic-Dance 1298
+News 1040
+Variety 810
+Rock 773
+Spanish 690
+Country 627
+Christian Contemp 605
+Gospel 577
+Hip Hop 576
+Oldies 505
+Public 421
+Classic Rock 408
+World 391
+Classical 356
+Jazz 352
+Alternative 311
+House 303
+Religious 272
+Classic Hits 266
+Metal 264
+Local Music 260
+80's 256
+Modern Rock 235
+Police 233
+Sports Talk 232
+Greek 227
+Italian 225
+Fire 220
+Community 209
+French 208
+Easy Listening 208
+Euro Hits 199
+Trance 197
+AAA 196
+Christian 193
+Reggae 189
+Mexican 181
+College 175
+Soul 170
+Information 166
+Techno 162
+Weather 151
+Catholic 148
+Latin Jazz 146
+Indie 140
+Disco 134
+Spanish Talk 131
+Blues 127
+Chill 124
+Folk 123
+Hot AC 122
+Love Songs 116
+Eclectic 114
+Classic Country 114
+Smooth Jazz 110
+Ethnic 108
+Adult Standards 107
+70's 103
+Traffic 102
+Turkish 98
+Bollywood 97
+German 93
+Asian 92
+Electronica 79
+Talk 78
+Europe 75
+90's 73
+Adult Rock 71
+Christmas 71
+60's 69
+Religion-Spirituality 68
+Christian Spanish 67
+Salsa 66
+Funk 65
+Children's Music 65
+Polish 64
+Christian Rock 64
+Sports 62
+Portuguese 62
+French Talk 61
+Progressive 59
+Punk 57
+Japanese 56
+Comedy 51
+Africa 49
+Tamil 48
+Dutch 43
+Economics 42
+Caribbean 41
+New Age 41
+Anime 40
+Brazilian 39
+Romanian 39
+Reggaeton 38
+World Talk 37
+Rail 35
+50's 35
+Educational 32
+Soundtracks 31
+Business 30
+India 29
+Bluegrass 29
+Culture 28
+Blind Reader Service 27
+Islam 27
+Music 24
+Opera 24
+New Country 23
+Japanese Talk 23
+Nostalgia 22
+Merengue 22
+Tejano 21
+Culture-History 21
+Video Games 21
+Government 21
+Decades 20
+R&B 20
+Russian 20
+Industrial 20
+Life 18
+Chinese 18
+Conservative 17
+Football 17
+International 16
+Americana 16
+Jewish 16
+Chinese Talk 16
+Literature 15
+Hockey 14
+Old School 14
+Arabic 14
+Liberal 13
+Gay 13
+Current Affairs 13
+Specialty 13
+Celtic 12
+Irish 12
+Pop Latino 12
+Politics 12
+Country Talk 12
+Entertainment 11
+Military 11
+Soccer 11
+Air 10
+Italian Talk 10
+Portuguese Talk 10
+Rhythmic AC 10
+Agriculture 9
+Health 9
+TV News 9
+Greek Talk 9
+Korean 8
+00's 8
+Children 8
+Scanner 8
+Health, Home & Life 8
+Arabic Talk 7
+Bulgarian 7
+Travel 7
+Korean Talk 7
+Ranchera 7
+Polish Talk 7
+Television 7
+Entertainment & Media 6
+Austrian 6
+Beach-Calypso 6
+J-Pop 6
+Baseball 6
+Black 5
+Auto Racing 5
+Shopping 5
+Automotive 5
+Polka 5
+Middle Eastern 5
+K-Pop 5
+Music TV 5
+Money 5
+Art 5
+Young Adult 4
+Baroque 4
+Showtunes 4
+Live 4
+Hawaiian 4
+Drama 4
+Buddhist 4
+Basketball 4
+Family 4
+Romania 4
+Pentecostal 4
+Mormon 4
+AOR 3
+Stories 3
+Libertarian 3
+Tamil Talk 3
+New Age Life 3
+Horse Racing 3
+Science-Technology 3
+Native 2
+TV Themes 2
+Lutheran 2
+Advice 2
+Truckers 2
+AsianTalk 2
+Spoken 2
+Paranormal 2
+Consumer & Technology 2
+Music Talk 2
+Rock Latino 2
+Gothic 2
+Environment 2
+Marketing/PR 2
+Baptist 2
+40's 2
+Poetry 2
+Turkish Talk 2
+Medical 2
+Self Development 2
+Film 2
+Irish Talk 1
+Motorsports 1
+Wine 1
+Motivational 1
+Mixed Martial Arts 1
+Baha'i 1
+Investment 1
+Pets-Animals 1
+Creole 1
+Vietnamese 1
+Infomercial 1
+Gossip 1
+Lithuanian 1
+Personal 1
+Women 1
+India Talk 1
+Rugby 1
+Mental 1
+J League 1
+Golf 1
+Wrestling 1
+Entrepreneur 1
+Holistic 1
+Special Interest 1
+Computers 1

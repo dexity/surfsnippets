@@ -1,0 +1,245 @@
+00's 8
+40's 2
+50's 35
+60's 69
+70's 103
+80's 256
+90's 73
+AAA 196
+AOR 3
+Adult Contemporary 1592
+Adult Rock 71
+Adult Standards 107
+Advice 2
+Africa 49
+Agriculture 9
+Air 10
+Alternative 311
+Americana 16
+Anime 40
+Arabic 14
+Arabic Talk 7
+Art 5
+Asian 92
+AsianTalk 2
+Austrian 6
+Auto Racing 5
+Automotive 5
+Baha'i 1
+Baptist 2
+Baroque 4
+Baseball 6
+Basketball 4
+Beach-Calypso 6
+Black 5
+Blind Reader Service 27
+Bluegrass 29
+Blues 127
+Bollywood 97
+Brazilian 39
+Buddhist 4
+Bulgarian 7
+Business 30
+Caribbean 41
+Catholic 148
+Celtic 12
+Children 8
+Children's Music 65
+Chill 124
+Chinese 18
+Chinese Talk 16
+Christian 193
+Christian Contemp 605
+Christian Rock 64
+Christian Spanish 67
+Christmas 71
+Classic Country 114
+Classic Hits 266
+Classic Rock 408
+Classical 356
+College 175
+Comedy 51
+Community 209
+Computers 1
+Conservative 17
+Consumer & Technology 2
+Country 627
+Country Talk 12
+Creole 1
+Culture 28
+Culture-History 21
+Current Affairs 13
+Decades 20
+Disco 134
+Drama 4
+Dutch 43
+Easy Listening 208
+Eclectic 114
+Economics 42
+Educational 32
+Electronic-Dance 1298
+Electronica 79
+Entertainment 11
+Entertainment & Media 6
+Entrepreneur 1
+Environment 2
+Ethnic 108
+Euro Hits 199
+Europe 75
+Family 4
+Film 2
+Fire 220
+Folk 123
+Football 17
+French 208
+French Talk 61
+Funk 65
+Gay 13
+German 93
+Golf 1
+Gospel 577
+Gossip 1
+Gothic 2
+Government 21
+Greek 227
+Greek Talk 9
+Hawaiian 4
+Health 9
+Health, Home & Life 8
+Hip Hop 576
+Hockey 14
+Holistic 1
+Horse Racing 3
+Hot AC 122
+House 303
+India 29
+India Talk 1
+Indie 140
+Industrial 20
+Infomercial 1
+Information 166
+International 16
+Investment 1
+Irish 12
+Irish Talk 1
+Islam 27
+Italian 225
+Italian Talk 10
+J League 1
+J-Pop 6
+Japanese 56
+Japanese Talk 23
+Jazz 352
+Jewish 16
+K-Pop 5
+Korean 8
+Korean Talk 7
+Latin Jazz 146
+Liberal 13
+Libertarian 3
+Life 18
+Literature 15
+Lithuanian 1
+Live 4
+Local Music 260
+Love Songs 116
+Lutheran 2
+Marketing/PR 2
+Medical 2
+Mental 1
+Merengue 22
+Metal 264
+Mexican 181
+Middle Eastern 5
+Military 11
+Mixed Martial Arts 1
+Modern Rock 235
+Money 5
+Mormon 4
+Motivational 1
+Motorsports 1
+Music 24
+Music TV 5
+Music Talk 2
+Native 2
+New Age 41
+New Age Life 3
+New Country 23
+News 1040
+Nostalgia 22
+Old School 14
+Oldies 505
+Opera 24
+Paranormal 2
+Pentecostal 4
+Personal 1
+Pets-Animals 1
+Poetry 2
+Police 233
+Polish 64
+Polish Talk 7
+Politics 12
+Polka 5
+Pop Latino 12
+Portuguese 62
+Portuguese Talk 10
+Progressive 59
+Public 421
+Punk 57
+R&B 20
+Rail 35
+Ranchera 7
+Reggae 189
+Reggaeton 38
+Religion-Spirituality 68
+Religious 272
+Rhythmic AC 10
+Rock 773
+Rock Latino 2
+Romania 4
+Romanian 39
+Rugby 1
+Russian 20
+Salsa 66
+Scanner 8
+Science-Technology 3
+Self Development 2
+Shopping 5
+Showtunes 4
+Smooth Jazz 110
+Soccer 11
+Soul 170
+Soundtracks 31
+Spanish 690
+Spanish Talk 131
+Special Interest 1
+Specialty 13
+Spoken 2
+Sports 62
+Sports Talk 232
+Stories 3
+TV News 9
+TV Themes 2
+Talk 78
+Tamil 48
+Tamil Talk 3
+Techno 162
+Tejano 21
+Television 7
+Top 40-Pop 4096
+Traffic 102
+Trance 197
+Travel 7
+Truckers 2
+Turkish 98
+Turkish Talk 2
+Variety 810
+Video Games 21
+Vietnamese 1
+Weather 151
+Wine 1
+Women 1
+World 391
+World Talk 37
+Wrestling 1
+Young Adult 4

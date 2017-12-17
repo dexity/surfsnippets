@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:orientation="vertical"
+    android:id="@+id/main_layout">    
+    <TableLayout android:id="@+id/tableLayout1" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        	<ImageView android:layout_width="wrap_content" 
+        			   android:layout_height="wrap_content" 
+        			   android:src="@drawable/seaworld_l" 
+        			   android:id="@+id/picture_l"></ImageView>
+        	<ImageView android:layout_width="wrap_content" 
+        	 		   android:layout_height="wrap_content" 
+        	 		   android:src="@drawable/seaworld_r" 
+        	 		   android:id="@+id/picture_r"></ImageView>
+        </TableRow>
+        <TableRow android:id="@+id/tableRow2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+		    <Button android:text="Left" 
+		    		android:id="@+id/button_left" 
+		    		android:layout_width="wrap_content" 
+		    		android:layout_height="wrap_content"
+		    		android:layout_weight="0.5"
+		    		android:layout_margin="5dip"></Button>
+		    <Button android:text="Right" 
+		    		android:id="@+id/button_right" 
+		    		android:layout_width="wrap_content" 
+		    		android:layout_height="wrap_content"
+		    		android:layout_weight="0.5"
+		    		android:layout_margin="5dip"></Button>        
+        </TableRow>
+    </TableLayout>
+</LinearLayout>
